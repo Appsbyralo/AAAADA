@@ -93,6 +93,28 @@
 "previewImageURLs": [
 "https://appsbyralo.github.io/AAAADA/Preview.png"
 ]
+},
+{
+"title": "4. Things to get you started",
+"overviewSubtitle": "A one stop shop to get started building your own apps",
+"detailSubtitle": "Nogle forskellige ting til at komme hurtigt igang",
+"description": "Med denne app lærer du nogle af alle de ting der er fede at kunne når man skaber apps, f.eks. At lave forskellige typer af knapper, slideknapper, GPS-kort og meget mere.",
+"contentIdentifier": "com.github.appsbyralo.ContentDA",
+"contentVersion": "1.0",
+"url": "https://appsbyralo.github.io/Things/ThingsDA.swiftpm.zip",
+"publishedDate": "2024-08-18T12:00:00+00:00",
+"lastUpdatedDate": "2024-08-18T12:00:00+00:00",
+"thumbnailURL": "https://appsbyralo.github.io/AAAAADA/Thumbnail.png",
+"bannerImageURL": "https://appsbyralo.github.io/AAAADA/Banner.png",
+"additionalInformation": [
+{
+"name": "Languages",
+"value": "Danish"
+}
+],
+"previewImageURLs": [
+"https://appsbyralo.github.io/AAAADA/Preview.png"
+]
 }
 ]
 }
