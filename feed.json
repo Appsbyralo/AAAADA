@@ -13,11 +13,11 @@
 "description": "An App About Apps is about moving from developing ideas for needed apps to sketching and describing those ideas and creating app prototypes. If you wish, you can also work on learning to code in Swift, so you can eventually publish a real app on the App Store. Turn your visions and ideas into reality!",
 "contentIdentifier": "com.github.appsbyralo.An-App-About-AppsDA",
 "contentVersion": "1.0",
-"url": "https://appsbyralo.github.io/An-App-About-Apps/AAAADA.swiftpm.zip",
+"url": "https://appsbyralo.github.io/AAAADA/AAAADA.swiftpm.zip",
 "publishedDate": "2024-08-18T12:00:00+00:00",
 "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
-"thumbnailURL": "https://github.com/Appsbyralo/An-App-About-Apps/Thumbnail.png",
-"bannerImageURL": "https://github.com/Appsbyralo/An-App-About-Apps/Banner.png",
+"thumbnailURL": "https://github.com/Appsbyralo/AAAAADA/Thumbnail.png",
+"bannerImageURL": "https://github.com/Appsbyralo/AAAADA/Banner.png",
 "additionalInformation": [
 {
 "name": "Languages",
@@ -25,7 +25,7 @@
 }
 ],
 "previewImageURLs": [
-"https://appsbyralo.github.io/Navigation/preview.png"
+"https://appsbyralo.github.io/AAAADA/Preview.png"
 ]
 },
 {
@@ -38,8 +38,8 @@
 "url": "https://appsbyralo.github.io/Navigation/NavigationDA.swiftpm.zip",
 "publishedDate": "2024-08-18T12:00:00+00:00",
 "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
-"thumbnailURL": "https://github.com/Appsbyralo/An-App-About-Apps/Thumbnail.png",
-"bannerImageURL": "https://github.com/Appsbyralo/An-App-About-Apps/Banner.png",
+"thumbnailURL": "https://github.com/Appsbyralo/AAAAADA/Thumbnail.png",
+"bannerImageURL": "https://github.com/Appsbyralo/AAAADA/Banner.png",
 "additionalInformation": [
 {
 "name": "Languages",
@@ -47,7 +47,7 @@
 }
 ],
 "previewImageURLs": [
-"https://appsbyralo.github.io/Navigation/preview.png"
+"https://appsbyralo.github.io/AAAADA/Preview.png"
 ]
 },
 {
@@ -60,8 +60,8 @@
 "url": "https://appsbyralo.github.io/Stacks/StacksDA.swiftpm.zip",
 "publishedDate": "2024-08-18T12:00:00+00:00",
 "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
-"thumbnailURL": "https://github.com/Appsbyralo/An-App-About-Apps/Thumbnail.png",
-"bannerImageURL": "https://github.com/Appsbyralo/An-App-About-Apps/Banner.png",
+"thumbnailURL": "https://github.com/Appsbyralo/AAAAADA/Thumbnail.png",
+"bannerImageURL": "https://github.com/Appsbyralo/AAAADA/Banner.png",
 "additionalInformation": [
 {
 "name": "Languages",
@@ -69,7 +69,7 @@
 }
 ],
 "previewImageURLs": [
-"https://appsbyralo.github.io/Navigation/preview.png"
+"https://appsbyralo.github.io/AAAADA/Preview.png"
 ]
 },
 {
@@ -82,8 +82,8 @@
 "url": "https://appsbyralo.github.io/Content/ContentDA.swiftpm.zip",
 "publishedDate": "2024-08-18T12:00:00+00:00",
 "lastUpdatedDate": "2024-08-18T12:00:00+00:00",
-"thumbnailURL": "https://github.com/Appsbyralo/An-App-About-Apps/Thumbnail.png",
-"bannerImageURL": "https://github.com/Appsbyralo/An-App-About-Apps/Banner.png",
+"thumbnailURL": "https://github.com/Appsbyralo/AAAAADA/Thumbnail.png",
+"bannerImageURL": "https://github.com/Appsbyralo/AAAADA/Banner.png",
 "additionalInformation": [
 {
 "name": "Languages",
@@ -91,7 +91,7 @@
 }
 ],
 "previewImageURLs": [
-"https://appsbyralo.github.io/Navigation/preview.png"
+"https://appsbyralo.github.io/AAAADA/Preview.png"
 ]
 }
 ]
