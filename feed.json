@@ -29,12 +29,10 @@
 ]
 },
 {
-"title": "Om mig",
+"title": "1. Om mig",
 "overviewSubtitle": "En dansk version af 'All About Me'",
 "detailSubtitle": "Lav en app om dig selv",
-"description": "Brug SwiftUI til at lave din egen personlige “Om mig”-app, hvor du kan vise, hvem du er.
-
-Lav en enkel grænseflade, hvor du kan tilføje dine egne billeder, tekst og yndlingsfarver. Tilføj en knap, der viser tilfældige sjove fakta om dig, og en rullevisning, hvor du kan dele en lille historie om noget, du synes er spændende.",
+"description": "Brug SwiftUI til at lave din egen personlige “Om mig”-app, hvor du kan vise, hvem du er. Lav en enkel grænseflade, hvor du kan tilføje dine egne billeder, tekst og yndlingsfarver. Tilføj en knap, der viser tilfældige sjove fakta om dig, og en rullevisning, hvor du kan dele en lille historie om noget, du synes er spændende.",
 "contentIdentifier": "com.github.appsbyralo.mig",
 "contentVersion": "1.0",
 "url": "https://appsbyralo.github.io/AAAADA/mig.swiftpm.zip",
@@ -53,7 +51,7 @@ Lav en enkel grænseflade, hvor du kan tilføje dine egne billeder, tekst og ynd
 ]
 },
 {
-"title": "1. Navigation bar",
+"title": "2. Navigation bar",
 "overviewSubtitle": "Alt hvad du skal bruge for at komme i gang med at lave apps",
 "detailSubtitle": "Lær at lave en navigation bar",
 "description": "I denne Swift app lærer du gennem opgaver, koder og forklaringer hvordan du kan lave din egen Navigation Bar (Menu) i din egen app. Du vil lære at opbygge forskellige antal knapper, sider og medieindhold i din app.",
@@ -75,7 +73,7 @@ Lav en enkel grænseflade, hvor du kan tilføje dine egne billeder, tekst og ynd
 ]
 },
 {	
-"title": "2. Stacks",
+"title": "3. Stacks",
 "overviewSubtitle": "Alt hvad du skal bruge for at komme i gang med at lave apps",
 "detailSubtitle": "Her arbejder vi med Stacks",
 "description": "I Stacks appen lærer du at placere forskellige typer af objekter på Vstacks, Hstacks og Zstacks. Med denne app lærer du at styre layoutet i din app, så du lettere kan designe det ønskede layout.",
@@ -100,7 +98,7 @@ Lav en enkel grænseflade, hvor du kan tilføje dine egne billeder, tekst og ynd
 ]
 },
 {
-"title": "3. Content",
+"title": "4. Content",
 "overviewSubtitle": "A one stop shop to get started building your own apps",
 "detailSubtitle": "Lær at tilføje indhold i din app",
 "description": "Med denne ressource får du kompetencerne til at kunne indsætte egne fotos, videoer og links i din egen app for at gøre appen mere visuel og indbydende.",
@@ -122,7 +120,7 @@ Lav en enkel grænseflade, hvor du kan tilføje dine egne billeder, tekst og ynd
 ]
 },
 {
-"title": "4. Things to get you started",
+"title": "5. Things to get you started",
 "overviewSubtitle": "A one stop shop to get started building your own apps",
 "detailSubtitle": "Nogle forskellige ting til at komme hurtigt igang",
 "description": "Med denne app lærer du nogle af alle de ting der er fede at kunne når man skaber apps, f.eks. At lave forskellige typer af knapper, slideknapper, GPS-kort og meget mere.",
