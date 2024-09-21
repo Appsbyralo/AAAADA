@@ -30,9 +30,9 @@
 },
 {
 "title": "1. Om mig",
-"overviewSubtitle": "En dansk version af 'All About Me'",
+"overviewSubtitle": "En dansk version af All About Me",
 "detailSubtitle": "Lav en app om dig selv",
-"description": "Brug SwiftUI til at lave din egen personlige “Om mig”-app, hvor du kan vise, hvem du er. Lav en enkel grænseflade, hvor du kan tilføje dine egne billeder, tekst og yndlingsfarver. Tilføj en knap, der viser tilfældige sjove fakta om dig, og en rullevisning, hvor du kan dele en lille historie om noget, du synes er spændende.",
+"description": "Brug SwiftUI til at lave din egen personlige Om mig-app, hvor du kan vise, hvem du er. Lav en enkel grænseflade, hvor du kan tilføje dine egne billeder, tekst og yndlingsfarver. Tilføj en knap, der viser tilfældige sjove fakta om dig, og en rullevisning, hvor du kan dele en lille historie om noget, du synes er spændende.",
 "contentIdentifier": "com.github.appsbyralo.mig",
 "contentVersion": "1.0",
 "url": "https://appsbyralo.github.io/AAAADA/mig.swiftpm.zip",
